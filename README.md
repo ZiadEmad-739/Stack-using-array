@@ -1,1 +1,1 @@
-# Stack using array Data Structure Implementation
+# Stack Data Structure Implementation using array
